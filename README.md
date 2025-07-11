@@ -24,8 +24,7 @@ A simple Java-based stock management system for managing products, clients, and 
 4. **Configure your MySQL database** connection in `src/ConnectionBD/DatabaseConnection.java`.
 5. **Build and run** the application from your IDE.
 
-## Author
+
 - Abdou Med mahfoud
 
----
-Feel free to contribute or suggest improvements! 
+
